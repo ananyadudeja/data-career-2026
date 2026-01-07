@@ -1,0 +1,4 @@
+Dataset,Core Entity,Primary Focus
+Medical Cost,The Patient,"Demographic risks (Age, Smoker status)."
+Hospital Charges,The Provider,"Operational costs (Procedures, Facility fees)."
+Insurance Cost,The Payer,"Financial coverage (Policy limits, Co-pays)."
